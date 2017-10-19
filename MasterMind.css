@@ -1,9 +1,11 @@
 ﻿/* Mastermind.css */
-
+	
 		* {margin:0 auto 0;
 			text-align:center;
 			align:center;}
 		div.conteneur {	width:410px;}
+			#test{
+			background-color:red;}
 			
 	/* contrôles des couleurs */
 		div#control{margin-left:40px;
